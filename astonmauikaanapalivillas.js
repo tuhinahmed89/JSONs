@@ -258,8 +258,32 @@ export default {
 			smokingBoolean: 'False', // boolean
 			images: [
 				{
-					caption: 'Hotel Room Deluxe', // string
-					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-bedroom-1440x993-1-1030x710.jpg', // url
+					caption: "Hotel Room Deluxe Bedroom", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-bedroom-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Hotel Room Deluxe Bedroom", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-bedroom-view-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Hotel Room Deluxe Bedroom", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-refreshment-center-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Hotel Room Deluxe Refreshment Center", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-refreshment-center-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Hotel Room Deluxe Balcony", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-balcony-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Hotel Room Deluxe Balcony View", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-balcony-view-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Hotel Room Deluxe Bathroom", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-bathroom-1440x993-1-1030x710.jpg", // url
 				},
 			],
 			roomAmenitiesArr: [
