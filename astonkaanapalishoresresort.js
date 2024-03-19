@@ -44,68 +44,68 @@ export default {
 	// arrays
 	"amenitiesArr": [
 		{
-			"name": "Coffee kiosk",
-			"url": "https://www.astonkaanapalishoresresort.com/amenities",
+			name: "Coffee kiosk",
+			url: "https://www.astonkaanapalishoresresort.com/amenities",
 		},
 		{
-			"name": "Convenience store",
-			"url": "https://www.astonkaanapalishoresresort.com/amenities",
+			name: "Convenience store",
+			url: "https://www.astonkaanapalishoresresort.com/amenities",
 		},
 		{
-			"name": "Fitness center",
-			"url": "https://www.astonkaanapalishoresresort.com/amenities",
+			name: "Fitness center",
+			url: "https://www.astonkaanapalishoresresort.com/amenities",
 		},
 		{
-			"name": "Gift & apparel shops",
-			"url": "https://www.astonkaanapalishoresresort.com/amenities",
+			name: "Gift & apparel shops",
+			url: "https://www.astonkaanapalishoresresort.com/amenities",
 		},
 		{
-			"name": "Guest activities desk",
-			"url": "https://www.astonkaanapalishoresresort.com/amenities/",
+			name: "Guest activities desk",
+			url: "https://www.astonkaanapalishoresresort.com/amenities/",
 		},
 		{
-			"name": "Jet spas (2)",
-			"url": "https://www.astonkaanapalishoresresort.com/amenities/",
+			name: "Jet spas (2)",
+			url: "https://www.astonkaanapalishoresresort.com/amenities/",
 		},
 		{
-			"name": "Meeting rooms",
-			"url": "https://www.astonkaanapalishoresresort.com/amenities/",
+			name: "Meeting rooms",
+			url: "https://www.astonkaanapalishoresresort.com/amenities/",
 		},
 		{
-			"name": "On-site cultural experiences",
-			"url": "https://www.astonkaanapalishoresresort.com/amenities/",
+			name: "On-site cultural experiences",
+			url: "https://www.astonkaanapalishoresresort.com/amenities/",
 		},
 		{
-			"name": "Outdoor barbecues",
-			"url": "https://www.astonkaanapalishoresresort.com/amenities/",
+			name: "Outdoor barbecues",
+			url: "https://www.astonkaanapalishoresresort.com/amenities/",
 		},
 		{
-			"name": "Pickleball court",
-			"url": "https://www.astonkaanapalishoresresort.com/amenities/",
+			name: "Pickleball court",
+			url: "https://www.astonkaanapalishoresresort.com/amenities/",
 		},
 		{
-			"name": "Restaurant & bar",
-			"url": "https://www.astonkaanapalishoresresort.com/amenities/",
+			name: "Restaurant & bar",
+			url: "https://www.astonkaanapalishoresresort.com/amenities/",
 		},
 		{
-			"name": "Salon/spa",
-			"url": "https://www.astonkaanapalishoresresort.com/amenities/",
+			name: "Salon/spa",
+			url: "https://www.astonkaanapalishoresresort.com/amenities/",
 		},
 		{
-			"name": "Sauna",
-			"url": "https://www.astonkaanapalishoresresort.com/amenities/",
+			name: "Sauna",
+			url: "https://www.astonkaanapalishoresresort.com/amenities/",
 		},
 		{
-			"name": "Shuffleboard court",
-			"url": "https://www.astonkaanapalishoresresort.com/amenities/",
+			name: "Shuffleboard court",
+			url: "https://www.astonkaanapalishoresresort.com/amenities/",
 		},
 		{
-			"name": "Swimming pools (2)",
-			"url": "https://www.astonkaanapalishoresresort.com/amenities/",
+			name: "Swimming pools (2)",
+			url: "https://www.astonkaanapalishoresresort.com/amenities/",
 		},
 		{
-			"name": "Wi-Fi Internet access throughout the hotel",
-			"url": "https://www.astonkaanapalishoresresort.com/amenities/",
+			name: "Wi-Fi Internet access throughout the hotel",
+			url: "https://www.astonkaanapalishoresresort.com/amenities/",
 		}
 	],
 	"roomGroupsArr": [
