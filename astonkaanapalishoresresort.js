@@ -110,36 +110,36 @@ export default {
 	],
 	"roomGroupsArr": [
 		{
-			"roomType": "Hotel Room",
+			roomType: "Hotel Room",
 		},
 		{
-			"roomType": "Junior Suite with Kitchen",
-		},
-
-		{
-			"roomType": "1-Bedroom 1-Bath Standard Suite",
-		},
-		{
-			"roomType": "1-Bedroom 1-Bath Garden View Suite",
-		},
-		{
-			"roomType": "1-Bedroom 1-Bath Ocean View Suite",
+			roomType: "Junior Suite with Kitchen",
 		},
 
 		{
-			"roomType": "2-Bedroom 2-Bath Garden View Suite",
+			roomType: "1-Bedroom 1-Bath Standard Suite",
 		},
 		{
-			"roomType": "2-Bedroom 2-Bath Ocean View Suite",
+			roomType: "1-Bedroom 1-Bath Garden View Suite",
 		},
 		{
-			"roomType": "2-Bedroom 2-Bath Oceanfront Suite",
+			roomType: "1-Bedroom 1-Bath Ocean View Suite",
+		},
+
+		{
+			roomType: "2-Bedroom 2-Bath Garden View Suite",
 		},
 		{
-			"roomType": "2-Bedroom 2-Bath Oceanfront Aloha Suite",
+			roomType: "2-Bedroom 2-Bath Ocean View Suite",
 		},
 		{
-			"roomType": "2-Bedroom 2-Bath Penthouse Suite",
+			roomType: "2-Bedroom 2-Bath Oceanfront Suite",
+		},
+		{
+			roomType: "2-Bedroom 2-Bath Oceanfront Aloha Suite",
+		},
+		{
+			roomType: "2-Bedroom 2-Bath Penthouse Suite",
 		}
 	],
 	"imageArr": [
