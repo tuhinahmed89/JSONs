@@ -208,7 +208,6 @@ export default {
 			name: 'Hotel Room', // string
 			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms', // url
 			bookUrl: 'https://be.synxis.com/?hotel=14894&level=hotel&locale=en-US&room=HR00&src=MKV.HR00.schema', // url
-			tourUrl: '', // url
 			petsAllowedTrueOrFalse: 'False', // boolean
 			description: 'Our spacious hotel room offers the basic necessities for a comfortable place to unwind. Amenities include central air conditioning, a coffee maker, and mini-refrigerator.', // string
 			maxOccupancy: '2', // number
@@ -216,12 +215,22 @@ export default {
 			checkOutTime: '11:00', // datetime
 			bedCount: '1', // number
 			bedType: 'King or Queen', // string
+			bathroomCount: "1",
+			roomCount: "1"
 			smokingBoolean: 'False', // boolean
 			images: [
 				{
-					caption: 'Hotel Room', // string
-					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-premium-bed-1440x964-1-1030x690.jpg', // url
+					caption: "Hotel Room", // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-rooms-standard-bedroom-1440x993-1-1030x710.jpg', // url
 				},
+				{
+					caption: "Hotel Room Shower", // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-shower-1440x993-1-1030x710.jpg', // url
+				},
+				{
+					caption: "Hotel Room Shower", // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-shower-1440x993-1-1030x710.jpg', // url
+				}
 			],
 			roomAmenitiesArr: [
 				{
@@ -312,7 +321,7 @@ export default {
 					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
 				}
 			],
-		},
+
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Hotel Room Premium', // string
